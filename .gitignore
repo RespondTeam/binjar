@@ -1,0 +1,10 @@
+*.log
+/.nyc_output
+/dist
+/lib
+/package-lock.json
+/tmp
+/test
+/.idea
+node_modules
+*.lock
