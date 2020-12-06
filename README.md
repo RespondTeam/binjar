@@ -68,3 +68,8 @@ OPTIONS
 
 _See code: [@oclif/plugin-help](https://github.com/oclif/plugin-help/blob/v2.2.1/src\commands\help.ts)_
 <!-- commandsstop -->
+
+
+SUPPORT AS FOR MORE RELEASE:
+
+BTC : 15nGgW3AayodbHkcvn5bHY9bphixxx6HYu
