@@ -1,4 +1,4 @@
-binjar
+Binary jar
 ======
 
 
