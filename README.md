@@ -72,4 +72,4 @@ _See code: [@oclif/plugin-help](https://github.com/oclif/plugin-help/blob/v2.2.1
 
 SUPPORT AS FOR MORE RELEASE:
 
-BTC : 15nGgW3AayodbHkcvn5bHY9bphixxx6HYu
+BTC : 38Y4Yt79GMcwuydpLDKHLT8oujxwai1XMS
