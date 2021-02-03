@@ -72,4 +72,9 @@ _See code: [@oclif/plugin-help](https://github.com/oclif/plugin-help/blob/v2.2.1
 
 SUPPORT AS FOR MORE RELEASE:
 
-BTC : 3PU2aZyeASFu1bYA4zeXsR2gczDyMkYdZx
+ROUTING NUMBER
+MDI2MDE0OTAy
+ACCOUNT NUMBER
+NjI2MjAwMDAyMTI0ODc=
+
+
